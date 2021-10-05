@@ -1,0 +1,10 @@
+Kelebihan : 
+    1. Metode ini adalah model pengembangan yang paling handal dan paling lama digunakan oleh para developer
+    2. Cocok untuk membuat software dengan skala besar
+    3. Cocok untuk mengembangkan sistem yang bersifat generic
+    4. Pengerjaan proyek sistem akan mudah dikontrol dan terjadwal dengan baik 
+
+Kekurangan : 
+    1. Persyaratan sistem harus digambarkan dengan jelas
+    2. Rincian proses harus benar-benar jelas dan tidak boleh berubah
+    3. Sulit untuk beradaptasi jika ada perubahan spesifikasi pada suatu tahapan pengembangan
