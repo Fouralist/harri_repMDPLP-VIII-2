@@ -5,10 +5,9 @@ A.  Penjelasan Singkat
     Waterfall merupakan salah satu siklus hidup klasic (Classic life cycle) dalam pengembangan perangkat lunak.
   Metode ini menggambarkan pendekatan yang cukup sistematis juga berurutan pada pengembangan software.
 
-B. Tahapan-tahapan Waterfall 
-    1. System Engineering 
-    2. Analysis 
-    3. Design 
-    4. Coding 
-    5. Testing 
-    6. Maintenance
+B. Tahapan-tahapan Waterfall  
+    1. Requirements Analysis 
+    2. Design 
+    3. Coding 
+    4. Testing 
+    5. Maintenance
