@@ -1,0 +1,6 @@
+WATERFALL 
+
+
+A.  Penjelasan Singkat 
+    Waterfall merupakan salah satu siklus hidup klasic (Classic life cycle) dalam pengembangan perangkat lunak.
+  Metode ini menggambarkan pendekatan yang cukup sistematis juga berurutan pada pengembangan software.
