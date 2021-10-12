@@ -1,1 +1,3 @@
 Pengertian Prototype
+
+  Proses perancangan sistem dengan membentuk contoh dan standar ukuran yang akan dikerjakan nantinya. Prototype digunakan sebagai contoh mula-mula atau purwarupa dari suatu rancangan produk. Hal ini juga dikenal dalam dunia teknologi dan rekayasa perangkat lunak hingga industri manufaktur dan sebagainya
