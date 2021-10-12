@@ -1,0 +1,9 @@
+Kelebihan : 
+    1. Cocok untuk membuat software dengan skala besar
+    2. Cocok untuk mengembangkan sistem yang bersifat generic
+    3. Pengerjaan proyek sistem akan mudah dikontrol dan terjadwal dengan baik 
+
+Kekurangan : 
+    1. Persyaratan sistem harus digambarkan dengan jelas
+    2. Rincian proses harus benar-benar jelas dan tidak boleh berubah
+    3. Sulit untuk beradaptasi jika ada perubahan spesifikasi pada suatu tahapan pengembangan
